@@ -6,9 +6,9 @@ For your convenience, I have linked each topic folder below.
 <br>
 
 # ➡️ Folder Navigation
-**[🔗 AI Fundamentals Folder](notes/ai-fundamentals)**
+**[🔗 AI Fundamentals Folder](https://github.com/rumaysa-cyber/ai-learning-portfolio/tree/main/notes/ai-fundamentals)**
 
-**[🔗 AI Governance Folder](notes/ai-governance)**
+**[🔗 AI Governance Folder](https://github.com/rumaysa-cyber/ai-learning-portfolio/tree/main/notes/ai-governance)**
 
-**[🔗 ML Fundamentals Folder](notes/ml-fundamentals)**
+**[🔗 ML Fundamentals Folder](https://github.com/rumaysa-cyber/ai-learning-portfolio/tree/main/notes/ml-fundamentals)**
 
