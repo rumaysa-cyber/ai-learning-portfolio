@@ -6,3 +6,9 @@ For your convenience, I have linked each topic folder below.
 <br>
 
 # ➡️ Folder Navigation
+**[🔗 AI Fundamentals Folder](notes/ai-fundamentals)**
+
+**[🔗 AI Governance Folder](notes/ai-governance)**
+
+**[🔗 ML Fundamentals Folder](notes/ml-fundamentals)**
+
