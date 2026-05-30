@@ -13,8 +13,6 @@ A beginner‑friendly Python script that collects user information (name, age, o
 - Type casting
 - Organizing user‑provided data into readable output
 
-**[🔗 Link to Data Collection Script](projects/data_collection_script.py)**
-
 <br>
 
 # 🐾 Animal Classifier/Amateur System Script 
@@ -24,5 +22,3 @@ A simple rule‑based classifier that identifies whether an animal is a mammal, 
 - Boolean logic
 - Conditional statements
 - Basic expert‑system style reasoning
-
-**[🔗 Link to Animal Classifier/Amateur System Script](projects/amateur_system_script.py)**
