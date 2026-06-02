@@ -26,3 +26,15 @@ A simple rule‑based classifier that identifies whether an animal is a mammal, 
 - Basic expert‑system style reasoning
 
 **[🔗 Link to Animal Classifier/Amateur System Script](https://github.com/rumaysa-cyber/ai-learning-portfolio/blob/main/projects/amateur_system_script.py)**
+
+<br>
+
+# 📲 Data Processing Script 
+A simple Python project that gathers data items from the user, cleans each item (lowercasing + trimming whitespace), and counts how many times each unique item appears. 
+
+### Key Skills Practiced:
+- Using loops with exit conditions
+- Building and modifying lists
+- Using dictionaries to count occurrences 
+
+**[🔗 Link to Data Processing Script](https://github.com/rumaysa-cyber/ai-learning-portfolio/blob/main/projects/data_processing_script.py)**
