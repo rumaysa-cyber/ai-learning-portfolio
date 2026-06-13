@@ -14,5 +14,5 @@ This repository contains my **original work** based on what I learned in the Reg
 
 # 📁 Repository Structure
 - **notes/**- Concept summaries and explanations
-- **reflections/**- Personal insights and connections
+- **reflections/**- Insights and connections
 - **projects/**- Deliverables demonstrating applied understanding
