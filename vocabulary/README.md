@@ -4,8 +4,8 @@ This folder contains definitions of key terms I learned throughout the RING AI p
 For your convenience, I have linked each topic folder below.
 
 # ➡️ Folder Navigation
-**[🔗 AI Fundamentals Folder](https://github.com/rumaysa-cyber/ai-learning-portfolio/tree/main/vocabulary/ai-fundamentals-vocab)**
+**[🔗 AI Fundamentals Vocabulary Folder](https://github.com/rumaysa-cyber/ai-learning-portfolio/tree/main/vocabulary/ai-fundamentals-vocab)**
 
-**[🔗 AI Governance Folder](https://github.com/rumaysa-cyber/ai-learning-portfolio/tree/main/vocabulary/ai-governance-vocab)**
+**[🔗 AI Governance Vocabulary Folder](https://github.com/rumaysa-cyber/ai-learning-portfolio/tree/main/vocabulary/ai-governance-vocab)**
 
-**[🔗 ML Fundamentals Folder](https://github.com/rumaysa-cyber/ai-learning-portfolio/tree/main/vocabulary/ml-fundamentals-vocab)**
+**[🔗 ML Fundamentals Vocabulary Folder](https://github.com/rumaysa-cyber/ai-learning-portfolio/tree/main/vocabulary/ml-fundamentals-vocab)**
